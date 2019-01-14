@@ -1,5 +1,5 @@
 # Hello Mega Project
 
 ``` javascript 
-console.log('Hello');
+console.log('Hello world');
 ```
